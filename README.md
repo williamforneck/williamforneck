@@ -7,7 +7,7 @@
 ## 🧠 Tech Stack
 
 **Frontend**
-- Angular (v14–20), RxJS, TypeScript
+- Angular
 - React, React Native, Next.js
 - Micro Frontends (MFE), Design Systems
 - UX Performance Optimization
@@ -23,6 +23,7 @@
 **Others**
 - Socket.IO (real-time communication)
 - Mercado Pago SDK (Secure Fields)
+- Stripe
 - Git & GitHub Flow
 
 ---
@@ -33,7 +34,7 @@
   Migrated legacy Angular monolith to Micro Frontends (v14 → v20) using NGINX; built reusable and performant components for a Design System.
 
 - **DLL Finance**  
-  Created dynamic dashboards and internal systems with real-time data handling and seamless user interactions.
+  Created internal systems and migrated legacy AngularJS to Angular 13.
 
 - **IEPRO – Registry System**  
   Developed a secure document flow and registration system with backend integrations and robust UI.
@@ -46,18 +47,13 @@
 ## 🌍 About Me
 
 - 🇧🇷 Based in Brazil (UTC -3)
-- 💬 Speaks Portuguese (native) and English (professional)
+- 💬 Speaks Portuguese (native) and English (Professional - C1)
 - 🧩 Passionate about clean architecture, user experience and scalable frontend engineering
-- 📫 Open to remote work opportunities
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/seu-usuario)
-- [GitHub](https://github.com/seuusuario)
-- [Email](mailto:teu@email.com)
+- [LinkedIn](https://linkedin.com/in/william-forneck)
+- [Email](mailto:williamforneck@email.com)
 
----
-
-⭐️ *Thanks for visiting my profile!*
