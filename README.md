@@ -55,5 +55,5 @@
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/william-forneck)
-- [Email](mailto:williamforneck@email.com)
+- [Email](mailto:williamforneck@gmail.com)
 
